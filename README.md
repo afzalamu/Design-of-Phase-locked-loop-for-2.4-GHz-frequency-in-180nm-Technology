@@ -14,11 +14,6 @@ This project details the design and simulation of a fully integrated **Phase-Loc
 
 - CMOS 180nm Process Technology  
 - LTspice for transistor-level simulation  
-- MOS Varactor-based LC VCO Design  
-- TSPC Flip-Flop-based Frequency Divider  
-- NAND-based Phase-Frequency Detector  
-- Second-order Passive Loop Filter  
-
 ---
 
 ## 📐 PLL Architecture Overview
@@ -50,24 +45,6 @@ The PLL is composed of the following blocks:
 
 ---
 
-## 📦 Project Folder Structure (Suggested)
-
-```
-📁 PLL-2.4GHz-180nm/
-├── README.md
-├── assets/
-│   ├── pll_block_diagram.png
-│   ├── vco_diff_output.png
-│   ├── kvco_plot.png
-│   ├── divider_output.png
-│   ├── pll_locking.png
-├── schematic_designs/
-│   ├── vco_schematic.asc
-│   ├── divider_schematic.asc
-│   └── pfd_schematic.asc
-```
-
----
 
 ## 🧪 Simulation Snapshots
 
