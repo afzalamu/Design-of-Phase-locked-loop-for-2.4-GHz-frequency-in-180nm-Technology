@@ -1,7 +1,3 @@
-Absolutely Afzal! Here’s your complete, clean, ready-to-paste `README.md` file content — **no code blocks**, no markdown wrappers — just copy this entire thing and paste it into your `README.md` on GitHub 👇
-
----
-
 # 📡 Design of Phase-Locked Loop (PLL) for 2.4 GHz Frequency in 180nm CMOS Technology
 
 A comprehensive transistor-level design and simulation of a low-power **Phase-Locked Loop (PLL)** operating at **2.4 GHz**, implemented using **180nm CMOS technology** and verified via **LTspice**. The project aims at building a frequency synthesizer suitable for **ISM band** applications such as **Wi-Fi**, **Bluetooth**, and **ZigBee** transceivers.
