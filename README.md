@@ -151,4 +151,3 @@ Zakir Husain College of Engineering & Technology
 
 ---
 
-Let me know if you'd like help turning this into a GitHub Pages portfolio, or if you want me to extract and name the images from your PDF automatically!
