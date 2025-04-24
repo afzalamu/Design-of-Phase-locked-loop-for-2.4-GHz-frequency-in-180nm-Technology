@@ -101,6 +101,16 @@ When there is a frequnecy difference between Fref and Fdiv:
 -Schematic
 ![image](https://github.com/user-attachments/assets/bec73ca7-82a5-4be4-ba64-032d58358ff6)
 - Transient Analysis
+![image](https://github.com/user-attachments/assets/fa669b79-db04-49b0-bee8-cfdfe15e8466)
+Zommed out Waveforms:
+![image](https://github.com/user-attachments/assets/b6c32ae1-4af2-4e6c-9224-0df7dff83059)
+- Control Voltage Curve
+- ![image](https://github.com/user-attachments/assets/06050bc2-4fbc-4aae-86a0-22d119509fe8)
+
+
+- Final PLL output clock (2.4 GHz Clk)
+![image](https://github.com/user-attachments/assets/7a4865d7-b8bc-4a4a-8034-d398268a8dfe)
+
 
 
 
