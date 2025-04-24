@@ -88,9 +88,26 @@ When there is a Phase difference between Fref and Fdiv :
 When there is a frequnecy difference between Fref and Fdiv:
 ![image](https://github.com/user-attachments/assets/680ecaa5-8c24-40c4-898a-cd9af60c514f)
 
+### DESIGN OF CHARGE PUMP AND LOOP FILTER
+
+-Schematic
+![image](https://github.com/user-attachments/assets/f99c6ada-b4d1-48fa-bbf8-c3e04d65caca)
+
+- Transient Analysis
+![image](https://github.com/user-attachments/assets/a55b91f7-eea4-4825-b9b6-9e1e87a34402)
+![image](https://github.com/user-attachments/assets/e3c0a6a5-faee-4f70-8229-d9b34fe50218)
+
+### DESIGN OF COMPLETE PLL SYSTEM
+-Schematic
+![image](https://github.com/user-attachments/assets/bec73ca7-82a5-4be4-ba64-032d58358ff6)
+- Transient Analysis
+
+
+
 
 
 ---
+
 
 ## 🧠 Design Highlights
 
