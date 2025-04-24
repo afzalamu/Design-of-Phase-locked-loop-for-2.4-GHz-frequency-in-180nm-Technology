@@ -1,0 +1,16 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 64 64 -64 -64
+TEXT -16 55 Left 0 NAND
+PIN -64 -32 LEFT 8
+PINATTR PinName A
+PINATTR SpiceOrder 1
+PIN -64 32 LEFT 8
+PINATTR PinName B
+PINATTR SpiceOrder 2
+PIN 0 -64 TOP 8
+PINATTR PinName vdd
+PINATTR SpiceOrder 3
+PIN 64 0 RIGHT 8
+PINATTR PinName out
+PINATTR SpiceOrder 4
