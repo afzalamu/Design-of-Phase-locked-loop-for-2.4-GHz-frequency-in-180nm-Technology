@@ -1,4 +1,5 @@
 # 📡 Design of Phase-Locked Loop (PLL) for 2.4 GHz Frequency in 180nm CMOS Technology
+![image](https://github.com/user-attachments/assets/f563299a-dc67-49ca-a251-5bdec448b083)
 
 A comprehensive transistor-level design and simulation of a low-power **Phase-Locked Loop (PLL)** operating at **2.4 GHz**, implemented using **180nm CMOS technology** and verified via **LTspice**. The project aims at building a frequency synthesizer suitable for **ISM band** applications such as **Wi-Fi**, **Bluetooth**, and **ZigBee** transceivers.
 
@@ -46,18 +47,27 @@ The PLL is composed of the following blocks:
 ---
 
 
-## 🧪 Simulation Snapshots
-
-> Place the following images inside the `/assets` folder and use these names to ensure correct rendering.
+## 🧪 Schematic and Simulation Results
 
 ### 🔸 PLL Block Diagram  
-![PLL Block Diagram](assets/pll_block_diagram.png)
+![image](https://github.com/user-attachments/assets/f02c6548-e348-4efe-9fbe-d9814df79bdc)
 
-### 🔸 VCO Differential Output at 2.4 GHz  
-![VCO Output](assets/vco_diff_output.png)
 
-### 🔸 Kvco vs. Control Voltage  
-![Kvco Plot](assets/kvco_plot.png)
+### 🔸 NMOS BASED LC VCO 
+- Schematic
+![image](https://github.com/user-attachments/assets/3d3ce4d4-bd84-4402-92d0-251004325fa6)
+- Transient Analysis
+![image](https://github.com/user-attachments/assets/ee31f7a8-3878-4623-b0d5-f5851adf54ec)
+![image](https://github.com/user-attachments/assets/f954f7a5-6e34-4095-ab12-39b6d6fdbbfb)
+
+- Obtaining the Gain of the VCO
+![image](https://github.com/user-attachments/assets/23335035-66a5-4714-a3cd-e6df3041811c)
+- Conversion of the Differential Output from VCO to Digital Clock
+- Schematic
+![image](https://github.com/user-attachments/assets/72b1eb95-bf0b-468f-b4c3-f24b23e022b4)
+- Transient Analyis
+![image](https://github.com/user-attachments/assets/e4b0d00e-2b5b-44bc-b7f5-b1221896d132)
+
 
 ### 🔸 Divider Output  
 ![Divider Output](assets/divider_output.png)
