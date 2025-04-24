@@ -1,4 +1,6 @@
 # 📡 Design of Phase-Locked Loop (PLL) for 2.4 GHz Frequency in 180nm CMOS Technology
+![PLL](https://github.com/user-attachments/assets/7118897a-2292-432c-8c8d-d1a7be1c8cb9)
+
 ![image](https://github.com/user-attachments/assets/f563299a-dc67-49ca-a251-5bdec448b083)
 
 A comprehensive transistor-level design and simulation of a low-power **Phase-Locked Loop (PLL)** operating at **2.4 GHz**, implemented using **180nm CMOS technology** and verified via **LTspice**. The project aims at building a frequency synthesizer suitable for **ISM band** applications such as **Wi-Fi**, **Bluetooth**, and **ZigBee** transceivers.
