@@ -79,8 +79,16 @@ The PLL is composed of the following blocks:
 - Transient Analysis
 ![image](https://github.com/user-attachments/assets/58553ae1-894c-47e6-8c4f-47e7f2f09bb0)
 
-### 🔸 DESIGN OF PHASE FREQUENCY DETECTOR 
-![PLL Locking](assets/pll_locking.png)
+### 🔸 DESIGN OF PHASE FREQUENCY DETECTOR (NAND GATES BASED PFD)
+- Schematic
+![image](https://github.com/user-attachments/assets/e9e2edf6-5d48-4f1f-b47b-f0e2226b8c59)
+- Transient Analysis
+When there is a Phase difference between Fref and Fdiv :
+![image](https://github.com/user-attachments/assets/345c4768-924f-4ab9-aed8-f4d76d8d23b9)
+When there is a frequnecy difference between Fref and Fdiv:
+![image](https://github.com/user-attachments/assets/680ecaa5-8c24-40c4-898a-cd9af60c514f)
+
+
 
 ---
 
