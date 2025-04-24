@@ -1,0 +1,35 @@
+Circuit: * C:\Users\afzal\OneDrive\Desktop\2.4 GHz PLL\Design Files\VCO\VCO_PositiveK.asc
+
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+t1: time=4.24145e-008 at 4.24145e-008
+t2: time=4.28154e-008 at 4.28154e-008
+frequency: (1/period)=2.49405e+009
+period: (t2 - t1)=4.00954e-010
+
+
+Date: Thu Apr 24 17:31:10 2025
+Total elapsed time: 0.285 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20898
+traniter = 20894
+tranpoints = 7277
+accept = 5067
+rejected = 2210
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 348 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 449 bytes object code size  0.1/0.1/[0.1]
+
