@@ -53,7 +53,7 @@ The PLL is composed of the following blocks:
 ![image](https://github.com/user-attachments/assets/f02c6548-e348-4efe-9fbe-d9814df79bdc)
 
 
-### 🔸 NMOS BASED LC VCO 
+### 🔸DESIGN OF NMOS BASED LC VCO 
 - Schematic
 ![image](https://github.com/user-attachments/assets/3d3ce4d4-bd84-4402-92d0-251004325fa6)
 - Transient Analysis
@@ -69,10 +69,17 @@ The PLL is composed of the following blocks:
 ![image](https://github.com/user-attachments/assets/e4b0d00e-2b5b-44bc-b7f5-b1221896d132)
 
 
-### 🔸 Divider Output  
-![Divider Output](assets/divider_output.png)
+### 🔸 DESIGN OF FREQUENCY DIVIDER 
+- Transistor level Implementation of TSPC D-Flip Flop
+![image](https://github.com/user-attachments/assets/a191cb42-ce97-4608-94f6-2bbffc146452)
+- Transient Analysis of DFF
+![image](https://github.com/user-attachments/assets/df87f9f0-9ff1-4ca2-b51c-f3904644b004)
+- Schematic of Frequency Divider (MOD 24)
+![image](https://github.com/user-attachments/assets/c75d0382-e5a7-475a-ae87-ba2add9f73b5)
+- Transient Analysis
+![image](https://github.com/user-attachments/assets/58553ae1-894c-47e6-8c4f-47e7f2f09bb0)
 
-### 🔸 Locking Behavior of PLL  
+### 🔸 DESIGN OF PHASE FREQUENCY DETECTOR 
 ![PLL Locking](assets/pll_locking.png)
 
 ---
